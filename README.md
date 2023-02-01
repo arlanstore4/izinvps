@@ -1,2 +1,1 @@
-# ArlanSTORE 
-# FranataSTORE 
+# ArlanSTORE
